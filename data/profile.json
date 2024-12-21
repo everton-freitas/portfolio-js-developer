@@ -36,13 +36,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex com o PokeApi",
+      "url": "https://everton-freitas.github.io/pokedex.api/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Salao de Beleza Senac",
+      "url": "https://everton-freitas.github.io/projeto-salao-senac/",
+      "github": true
+    },
+    {
+      "name": "Plataforma de ensino EducaPlus",
+      "url": "https://everton-freitas.github.io/projeto-ensina-mais/",
       "github": true
     }
   ],
