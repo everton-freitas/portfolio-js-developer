@@ -51,21 +51,30 @@
       "github": true
     }
   ],
-  "professionalExperience": [
+  "courses": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Systems Analysis and Development | faculdade Senac PE",
+      "period": "2024/01 - 2026/06",
+      "periodo" : true,
+      "description": "Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Senac."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Javascript Developer | Digital Innovation One",
+      "period": "39 horas",
+      "periodo" : false,
+      "description": "Curso de Javascript com APi do Digital Innovation One."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Javascript | Curso em video",
+      "period": "40 horas",
+      "periodo" : false,
+      "description": "Curso de Javascript patrocinado pelo google do Curso em video."
+    },
+    {
+      "name": "Html + Css | Curso em video | modulo 1, 2, 3, 4 e 5",
+      "period": "200 horas",
+      "periodo" : false,
+      "description": "Todos os modulos de html e css do curso em video."
     }
   ]
 }
