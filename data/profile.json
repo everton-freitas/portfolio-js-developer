@@ -36,7 +36,12 @@
   ],
   "portfolio": [
     {
-      "name": "Pokedex com o PokeApi",
+      "name": "Calculadora com React",
+      "url": "https://everton-freitas.github.io/calculadora-react/",
+      "github": true
+    },
+    {
+      "name": "Pokedex com API do PokeApi",
       "url": "https://everton-freitas.github.io/pokedex.api/",
       "github": true
     },
