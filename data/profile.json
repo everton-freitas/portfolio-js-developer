@@ -36,6 +36,12 @@
   ],
   "portfolio": [
     {
+      "name": "Buscar Usuarios do github com react e api",
+      "url": "https://everton-freitas.github.io/usuarios-github/",
+      "github": true
+
+    },
+    {
       "name": "Calculadora com React",
       "url": "https://everton-freitas.github.io/calculadora-react/",
       "github": true
