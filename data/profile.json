@@ -17,12 +17,12 @@
       },
       {
         "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/ts.png"
       },
       {
         "name": "n8n",
-        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/css.png"
-      },
+        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/n8n-text.png"
+      }
     ],
     "softSkills": [
       "Gestão Agil Scrum",
