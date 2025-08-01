@@ -1,7 +1,7 @@
 {
   "name": "Everton Freitas",
   "photo": "https://avatars.githubusercontent.com/u/86174940?v=4",
-  "job": "College Student",
+  "job": "Intern in Process Automation and Integration with N8N",
   "location": "Recife - PE",
   "phone": "(81) 99547-3869",
   "email": "evertonfreitas016@hotmail.com",
@@ -16,18 +16,18 @@
         "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
-        "name": "Css",
-        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/css.png"
+        "name": "Typescript",
+        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/ts.png"
       },
       {
-        "name": "Html",
-        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/html.png"
-      }
+        "name": "n8n",
+        "logo": "https://raw.githubusercontent.com/everton-freitas/portfolio/refs/heads/main/data/imgs/n8n-text.png"
+      },
     ],
     "softSkills": [
-      "Inteligência emocional",
-      "Criatividade",
-      "Trabalho em equipe"
+      "Gestão Agil Scrum",
+      "Liderança",
+      "Negociação"
     ]
   },
   "languages": [
@@ -36,13 +36,13 @@
   ],
   "portfolio": [
     {
-      "name": "Buscar Usuarios do github com react e api",
-      "url": "https://everton-freitas.github.io/usuarios-github/",
+      "name": "Temporizador Pomodoro",
+      "url": "https://ignite-timer-ldozmc4je-everton-freitas-projects-a91b8b6b.vercel.app/",
       "github": true
 
     },
     {
-      "name": "Calculadora com React",
+      "name": "Calculadora",
       "url": "https://everton-freitas.github.io/calculadora-react/",
       "github": true
     },
