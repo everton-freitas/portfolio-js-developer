@@ -38,18 +38,13 @@
   "portfolio": [
     {
       "name": "Temporizador Pomodoro",
-      "url": "https://ignite-timer-phi-plum.vercel.app/",
-      "github": true
-
-    },
-    {
-      "name": "Calculadora",
-      "url": "https://everton-freitas.github.io/calculadora-react/",
+      "url": "https://timer-everton.vercel.app/",
       "github": true
     },
     {
-      "name": "Pokedex com API do PokeApi",
-      "url": "https://everton-freitas.github.io/pokedex.api/",
+      "name": "Gestão de casos odonto-legal",
+      "url": "timer-everton.vercel.app",
+      "key": "cpf: 88877766655 password: senha123 role: assistant"
       "github": true
     },
     {
@@ -58,10 +53,10 @@
       "github": true
     },
     {
-      "name": "Plataforma de ensino EducaPlus",
-      "url": "https://everton-freitas.github.io/projeto-ensina-mais/",
+      "name": "Calculadora",
+      "url": "https://everton-freitas.github.io/calculadora-react/",
       "github": true
-    }
+    },
   ],
   "courses": [
     {
