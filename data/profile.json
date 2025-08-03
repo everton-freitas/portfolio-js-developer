@@ -56,7 +56,7 @@
       "name": "Calculadora",
       "url": "https://everton-freitas.github.io/calculadora-react/",
       "github": true
-    },
+    }
   ],
   "courses": [
     {
@@ -64,6 +64,12 @@
       "period": "2024/01 - 2026/06",
       "periodo" : true,
       "description": "Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Senac."
+    },
+    {
+      "name": "React Developer | Rocketseat",
+      "period": "45 horas",
+      "periodo" : false,
+      "description": "Curso de React da rocketseat."
     },
     {
       "name": "Javascript Developer | Digital Innovation One",
@@ -82,6 +88,17 @@
       "period": "200 horas",
       "periodo" : false,
       "description": "Todos os modulos de html e css do curso em video."
+    },
+    {
+      "name": "Curso Oficial do N8n | level Beginner | ",
+      "periodo" : false,
+      "description": "curso oficial do n8n."
+    },
+    {
+      "name": "Gestão Ágil com scrum",
+      "period": "6.5 horas",
+      "periodo" : false,
+      "description": "Gestão ágil scrum mais 3 cursos extras de liderança, produtividade e negociação."
     }
   ]
 }
