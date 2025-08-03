@@ -43,7 +43,7 @@
     },
     {
       "name": "Gestão de casos odonto-legal",
-      "url": "timer-everton.vercel.app",
+      "url": "https://timer-everton.vercel.app",
       "key": "cpf: 88877766655 password: senha123 role: assistant",
       "github": true
     },
