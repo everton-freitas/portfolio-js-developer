@@ -48,6 +48,11 @@
       "github": true
     },
     {
+      "name": "Buscar usuario no github",
+      "url": "https://everton-freitas.github.io/usuarios-github/",
+      "github": true
+    },
+    {
       "name": "Salao de Beleza Senac",
       "url": "https://everton-freitas.github.io/projeto-salao-senac/",
       "github": true
